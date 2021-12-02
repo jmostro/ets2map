@@ -1,0 +1,10 @@
+<?php
+require_once(__DIR__.'/functions.php');
+require_once(__DIR__.'/lay_head.php');
+require_once(__DIR__.'/lay_topbar.php');
+require_once(__DIR__.'/lay_navigation.php');
+require_once(__DIR__.'/lay_content.php');
+require_once(__DIR__.'/lay_foot.php');
+require_once(__DIR__.'/lay_login.php');
+require_once(__DIR__.'/lay_trips.php');
+?>

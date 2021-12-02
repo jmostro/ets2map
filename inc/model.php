@@ -1,0 +1,10 @@
+<?php
+//require_once('config.php');
+//require_once('functions.php');
+require_once(__DIR__.'/mdl_db.php');
+require_once(__DIR__.'/mdl_log.php');
+require_once(__DIR__.'/mdl_drivers.php');
+require_once(__DIR__.'/mdl_trucks.php');
+require_once(__DIR__.'/mdl_trips.php');
+require_once(__DIR__.'/mdl_chat.php');
+?>
